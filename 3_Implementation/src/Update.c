@@ -1,9 +1,8 @@
 /**
  * @file update.c
- * @author Shriya
+ * @author Prakash Reddy Padala
  * @brief 
  * @version 0.1
- * @date 2021-05-23
  * 
  * @copyright Copyright (c) 2021
  * 
