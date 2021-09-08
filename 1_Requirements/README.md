@@ -25,18 +25,11 @@
   - Add/Delete of employee record.
   - Search for an employee.
   - Update employee record.
-  - Attendance/ Leaves of an employee.
   - Display employee record.
   ### Constraints
   
   - Every user must be comfortable using computer.
-  - All operations are in english so user must have basic knowledge of English.
- 
- ## Aging 
-| Age | Feature |
-| ----- | ----- | 
-| At past | This system is done using papers,file,record and blinders to store the details of an employee manually.   | 
-| At present | This system is developed using well- designed data base to store the details of an employee.  | 
+  - All operations are in english so user must have basic knowledge of Englis
 
    
 
@@ -59,7 +52,6 @@ Several companies facing issues while maintaining the data of Employee in compan
 The details of employees can be easily accessed by add,delete,search and modify in the system at any time.
 
 ## SWOT Analysis
-![SWOT ANALYIS](https://github.com/GENESIS2021Q1/sdlc-team-11/blob/main/2_Architecture/swot.jpeg)
 
 # Detail requirements
 ## High Level Requirements: 
